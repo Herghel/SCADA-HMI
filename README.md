@@ -17,7 +17,7 @@ Accesul la comenzile sistemului este controlat printr-un ecran de **Login**, cu 
 | **Inginer** | Acces complet la toate butoanele, inclusiv startul procesului de îmbuteliere |
 
 <p align="center">
-  <img width="500" alt="Ecran de login SCADA" src="./partea_de_user_pentru_a_accesa_comenzile.png" />
+  <img width="500" alt="Ecran de login SCADA" src="partea de user pentru a accesa comenzile.png" />
 </p>
 
 **Butoanele disponibile în interfață:**
