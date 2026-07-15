@@ -38,9 +38,9 @@ Accesul la comenzile sistemului este controlat printr-un ecran de **Login**, cu 
 Ecranul de intrare, cu fabrica văzută din exterior. Include butonul de schimbare a vremii (element vizual) și butonul de acces (ușa fabricii), controlat de nivelul de acces al utilizatorului logat.
 
 <p align="center">
-  <img width="420" alt="Fabrica - vreme insorita" src="Poza_afara_insorit.png" />
+  <img width="420" alt="Fabrica - vreme insorita" src="Poza afara insorit.png" />
   &nbsp;&nbsp;
-  <img width="420" alt="Fabrica - vreme ploioasa" src="poza_afara_ploios.png" />
+  <img width="420" alt="Fabrica - vreme ploioasa" src="poza afara ploios.png" />
 </p>
 
 <p align="center">
@@ -52,17 +52,17 @@ Ecranul de intrare, cu fabrica văzută din exterior. Include butonul de schimba
 Ecranul central al simulării. Aici are loc procesul complet de îmbuteliere: sticla goală avansează pe bandă, este umplută prin intermediul unui piston/dozator (simulat printr-o bară de progres a nivelului de lichid), apoi continuă spre zona de ambalare în cutie.
 
 <p align="center">
-  <img width="500" alt="Statia de imbuteliere - stare initiala" src="interiorul_fabricii.png" />
+  <img width="500" alt="Statia de imbuteliere - stare initiala" src="interiorul fabricii.png" />
 </p>
 
 **Secvența procesului de umplere:**
 
 <p align="center">
-  <img width="300" alt="Banda a pornit" src="banda_a_pornit.png" />
+  <img width="300" alt="Banda a pornit" src="banda a pornit.png" />
   &nbsp;&nbsp;
-  <img width="300" alt="Sticla se umple" src="sticla_se_umple.png" />
+  <img width="300" alt="Sticla se umple" src="sticla se umple.png" />
   &nbsp;&nbsp;
-  <img width="300" alt="Sticla umpluta merge in cutie" src="sticla_umpluta_merge_in_cutie.png" />
+  <img width="300" alt="Sticla umpluta merge in cutie" src="sticla umpluta merge in cutie.png" />
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ Ecranul central al simulării. Aici are loc procesul complet de îmbuteliere: st
 Sistemul afișează alarme (*Unacknowledged alarms*) care marchează, cu timestamp, momentul declanșării fiecărei etape a procesului (ex. pornirea benzii, umplerea sticlei, plecarea TIR-ului), oferind trasabilitate completă asupra secvenței de evenimente.
 
 <p align="center">
-  <img width="500" alt="Panou de alarme" src="alarme_.png" />
+  <img width="500" alt="Panou de alarme" src="alarme.png" />
 </p>
 
 ### 3 Spatele fabricii — Încărcarea în TIR
@@ -82,9 +82,9 @@ Sistemul afișează alarme (*Unacknowledged alarms*) care marchează, cu timesta
 Ultimul ecran al fluxului: lăzile cu sticle ambalate sunt preluate cu un stivuitor și încărcate în TIR, care apoi pleacă spre aprovizionare la apăsarea butonului dedicat.
 
 <p align="center">
-  <img width="420" alt="Cutia se incarca in tir" src="cutia_se_incarca_in_tir.png" />
+  <img width="420" alt="Cutia se incarca in tir" src="cutia se incarca in tir.png" />
   &nbsp;&nbsp;
-  <img width="420" alt="Tirul a plecat" src="tirul_a_plecat.png" />
+  <img width="420" alt="Tirul a plecat" src="tirul a plecat.png" />
 </p>
 
 <p align="center">
