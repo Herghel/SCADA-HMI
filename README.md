@@ -74,7 +74,7 @@ Ecranul central al simulării. Aici are loc procesul complet de îmbuteliere: st
 Sistemul afișează alarme (*Unacknowledged alarms*) care marchează, cu timestamp, momentul declanșării fiecărei etape a procesului (ex. pornirea benzii, umplerea sticlei, plecarea TIR-ului), oferind trasabilitate completă asupra secvenței de evenimente.
 
 <p align="center">
-  <img width="500" alt="Panou de alarme" src="alarme.png" />
+  <img width="500" alt="Panou de alarme" src="alarme .png" />
 </p>
 
 ### 3 Spatele fabricii — Încărcarea în TIR
